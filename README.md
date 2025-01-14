@@ -1,13 +1,11 @@
-# create-ebook-with-chatgpt
-# Academic Project for Open Education Platform DIO 
+create-ebook-with-chatgpt
+> Academic Project for Open Education Platform DIO 
 
 
 # Projeto: Criando um E-Book com ChatGPT & Midjourney para o Bootcamp de Tecnologia CAIXA - IA Generativa com Microsoft Copilot
 
 
- > 🗒️ **SOBRE:** Este é o repositório desenvolvido durante o Bootcamp promovido pela plataforma da [DIO](https://dio.me) em parceria com a Caixa Econômica Federal e a Microsoft.
-
-Projeto com o objetivo de explorar e aprimorar o uso das plataformas de Inteligência Artificial disponíveis através do desenvolvimento de um e-book. 
+ > 🗒️ **SOBRE:** Este é o repositório desenvolvido durante o Bootcamp promovido pela plataforma da [DIO](https://dio.me) em parceria com a Caixa Econômica Federal e a Microsoft. Projeto com o objetivo de explorar e aprimorar o uso das plataformas de Inteligência Artificial disponíveis através do desenvolvimento de um e-book. 
 
 <a href="https://github.com/lsnakata/create-ebook-with-chatgpt/blob/main/E-book_Desafio_DIO.pdf" title="View PDF Now"> 📕e-Book disponível para leitura aqui</a>
 
@@ -44,6 +42,7 @@ DALL-E：
 |     Objetivo     | Prompt                                                                                 |
 |      :----:      | -------------------------------------------------------------------------------------- |
 |  Imagem de Capa  | I want a picture of three medieval dragons of different colors in a digital dungeon like the inside of a spaceship {RULES} >I want it to look like they are invading the spaceship >I want them to look different from each other                                   |
+
 Obs: Não foi possível utilizar o Midjourney para a geração das imagens, por isso selecionei o DALL-E para substituí-lo.
 
 
@@ -63,5 +62,5 @@ Obs: Não foi possível utilizar o Midjourney para a geração das imagens, por 
 ## 👨‍💻 Autoria
 
 Luciana Nakata
-<a href="www.linkedin.com/in/luciana-nakata-43397b86">LinkedIn</a>
-&nbsp;|&nbsp;
+ <p> <a href="www.linkedin.com/in/luciana-nakata-43397b86">LinkedIn</a> </p>
+&nbsp;
