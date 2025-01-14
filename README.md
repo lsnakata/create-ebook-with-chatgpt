@@ -56,7 +56,6 @@ Obs: Não foi possível utilizar o Midjourney para a geração das imagens, por 
 ## 📚 Materiais
 
 - Imagens utilizadas disponíveis em `inventory`
-- Texto antes da edição também disponível em `inventory`
 
 
 ## 👨‍💻 Autoria
